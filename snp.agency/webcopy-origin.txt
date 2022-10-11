@@ -1,0 +1,52 @@
+Uri: https://snp.agency/en
+File Name: C:\Downloaded Web Sites\snp.agency\en.html
+Content Type: text/html
+
+Uri: https://snp.agency/frassets/fonts/Roboto-Bold.157ee5.woff
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\fonts\Roboto-Bold.157ee5.woff
+Content Type: application/font-woff
+
+Uri: https://snp.agency/frassets/fonts/Roboto-Regular.516136.woff
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\fonts\Roboto-Regular.516136.woff
+Content Type: application/font-woff
+
+Uri: https://snp.agency/frassets/fonts/AvenirNextCyr-Bold.2dcf23.woff
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\fonts\AvenirNextCyr-Bold.2dcf23.woff
+Content Type: application/font-woff
+
+Uri: https://snp.agency/frassets/fonts/AvenirNextCyr-Demi.fe6d74.woff
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\fonts\AvenirNextCyr-Demi.fe6d74.woff
+Content Type: application/font-woff
+
+Uri: https://snp.agency/frassets/fonts/AvenirNextCyr-Medium.241293.woff
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\fonts\AvenirNextCyr-Medium.241293.woff
+Content Type: application/font-woff
+
+Uri: https://snp.agency/frassets/fonts/AvenirNextCyr-Regular.a81229.woff
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\fonts\AvenirNextCyr-Regular.a81229.woff
+Content Type: application/font-woff
+
+Uri: https://snp.agency/frassets/images/android-chrome-512x512.c47fce.png
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\images\android-chrome-512x512.c47fce.png
+Content Type: image/png
+
+Uri: https://snp.agency/frassets/fonts/safari-pinned-tab.ac120a.svg
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\fonts\safari-pinned-tab.ac120a.svg
+Content Type: image/svg+xml
+
+Uri: https://snp.agency/frassets/images/favicon.cfa0b1.ico
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\images\favicon.cfa0b1.ico
+Content Type: image/x-icon
+
+Uri: https://snp.agency/frassets/app.b73ff488c858dac3e96f1409abddf3bf.css
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\app.b73ff488c858dac3e96f1409abddf3bf.css
+Content Type: text/css
+
+Uri: https://code.createjs.com/createjs-2015.11.26.min.js
+File Name: C:\Downloaded Web Sites\snp.agency\createjs-2015.11.26.min.js
+Content Type: text/javascript
+
+Uri: https://snp.agency/frassets/app.bundle.9d46c98ae93f20c2ddf8.js
+File Name: C:\Downloaded Web Sites\snp.agency\frassets\app.bundle.9d46c98ae93f20c2ddf8.js
+Content Type: application/javascript
+
